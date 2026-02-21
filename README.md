@@ -33,14 +33,15 @@ Follow these steps to run the app locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/Warda-create/todoapp.git
 
 
 ## Screenshots
-![structure]
-![Task added]
-![editabletask]
-![checkedin task]
-![showingcompletedtask]
-![useofclearbutton]
-![remainingtaskleft]
+
+![Structure](assets/structure.png)
+![Task Added](assets/taskadded.png)
+![Edit Table Task](assets/edittabletask.png)
+![Checked In Task](assets/checkedintask.png)
+![Showing Completed Task](assets/showingcompletedtask.png)
+![Use of Clear Button](assets/useofclearbutton.png)
+![Remaining Task Left](assets/remainingtaskleft.png)
