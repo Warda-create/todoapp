@@ -38,7 +38,7 @@ git clone https://github.com/Warda-create/todoapp.git
 
 ## Screenshots
 
-![Structure](assets/structure.PNG)
+![Structure](assets/structure.png)
 ![Task Added](assets/taskadded.PNG)
 ![Edit Table Task](assets/edittabletask.png)
 ![Checked In Task](assets/checkedintask.png)
