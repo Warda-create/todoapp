@@ -37,11 +37,10 @@ git clone https://github.com/Warda-create/todoapp.git
 
 
 ## Screenshots
-
-![Structure](assets/structure.png)
-![Task Added](assets/taskadded.PNG)
-![Edit Table Task](assets/edittabletask.png)
-![Checked In Task](assets/checkedintask.png)
-![Showing Completed Task](assets/showingcompletedtask.png)
-![Use of Clear Button](assets/useofclearbutton.png)
-![Remaining Task Left](assets/remainingtaskleft.png)
+![Structure](assets/structure.PNG)
+![Task added](assets/taskadded.PNG)
+![Editable task](assets/editabletask.png)
+![Checked in task](assets/checkedintask.png)
+![Showing completed task](assets/showingcompletedtask.png)
+![Use of clear button](assets/useofclearbutton.png)
+![Remaining task left](assets/remainingtaskleft.png)
