@@ -1,46 +1,52 @@
 # To-Do App
 
-A fully-featured, interactive To-Do application built with **HTML**, **CSS**, and **JavaScript**.  
-This app allows users to manage their daily tasks efficiently with a clean and user-friendly interface.
-
----
+A simple and interactive To-Do application built with HTML, CSS, and JavaScript.
 
 ## Features
+
 - Add new tasks
 - Edit existing tasks
-- Delete tasks with a **custom CSS delete button**
+- Delete tasks with a custom button
 - Mark tasks as completed
-- Responsive and mobile-friendly design
-- Clear all tasks option
+- Clear all tasks
+- Responsive layout for mobile and desktop
 
----
+## Tech Stack
 
-## Technologies Used
-- **HTML** – Structure and layout
-- **CSS** – Styling, including custom buttons
-- **JavaScript (ES6)** – Logic for task management
-- **Bootstrap** for styling enhancements
-
----
+- HTML
+- CSS + SCSS
+- JavaScript (ES6)
+- Bootstrap
 
 ## Live Demo
-[Click here to see the live demo](https://warda-create.github.io/todoapp/)
 
----
+[Open the live app](https://warda-create.github.io/todoapp/)
 
-## Installation
-Follow these steps to run the app locally:
+## Run Locally
 
-1. Clone the repository:
 ```bash
 git clone https://github.com/Warda-create/todoapp.git
+cd todoapp
+start index.html
+```
 
+## Project Structure
+
+```text
+todoapp/
+  assets/
+  css/
+  scss/
+  app.js
+  index.html
+```
 
 ## Screenshots
-![Structure](assets/structure.PNG)
+
+![App structure](assets/structure.png.PNG)
 ![Task added](assets/taskadded.PNG)
 ![Editable task](assets/editabletask.png)
-![Checked in task](assets/checkedintask.png)
-![Showing completed task](assets/showingcompletedtask.png)
-![Use of clear button](assets/useofclearbutton.png)
-![Remaining task left](assets/remainingtaskleft.png)
+![Checked task](assets/checkedintask.png)
+![Completed tasks view](assets/showingcompletedtask.png)
+![Clear button usage](assets/useofclearbutton.png)
+![Remaining tasks](assets/remainingtaskleft.png)
